@@ -286,6 +286,7 @@ export const pt = {
     copied: "E-mail copiado!",
     github: "GitHub",
     instagram: "Instagram",
+    linkedin: "LinkedIn",
     footer: "Todos os direitos reservados.",
     built: "Feito com Next.js, Tailwind e muito café.",
   },

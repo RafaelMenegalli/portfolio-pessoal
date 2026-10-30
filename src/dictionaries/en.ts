@@ -288,6 +288,7 @@ export const en: Dictionary = {
     copied: "Email copied!",
     github: "GitHub",
     instagram: "Instagram",
+    linkedin: "LinkedIn",
     footer: "All rights reserved.",
     built: "Built with Next.js, Tailwind and plenty of coffee.",
   },
